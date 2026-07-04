@@ -16,7 +16,7 @@
 
 💻 Passionate about Java Development
 
-🌱 Currently Learning Spring Boot, DSA & SQL
+🌱 Currently Learning Spring Boot, ai/ml& SQL
 
 📍 Odisha, India
 
@@ -61,8 +61,6 @@
 ⭐ Employee Management System
 
 ⭐ Hospital Database (SQL)
-
-⭐ Portfolio Website
 
 ⭐ Library Management System
 
