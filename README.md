@@ -88,12 +88,10 @@
 
 ---
 
-# 🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=swayanshu2004-hub&theme=algolia"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=swayanshu2004-hub&theme=algolia&no-frame=true&margin-w=15" />
 </p>
 
 ---
