@@ -117,3 +117,17 @@
 ⭐ Thanks for visiting my profile!
 
 </div>
+## 📊 GitHub Stats
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=swayanshu2004-hub&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swayanshu2004-hub&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayanshu2004-hub&layout=compact&theme=tokyonight"/>
+</p>
