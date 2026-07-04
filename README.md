@@ -72,20 +72,16 @@
 
 ---
 
-# 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swayanshu2004-hub&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayanshu2004-hub&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayanshu2004-hub&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swayanshu2004-hub&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swayanshu2004-hub&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swayanshu2004-hub&theme=tokyonight" width="48%" />
 </p>
 
 ---
