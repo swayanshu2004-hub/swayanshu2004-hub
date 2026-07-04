@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.svg" width="100%" alt="GitHub Banner">
+</p>
+
 <div align="center">
 
 # Hi 👋, I'm Swayanshu Satyapragyan Sahoo
