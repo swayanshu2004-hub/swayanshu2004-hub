@@ -83,7 +83,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swayanshu2004-hub&theme=tokyonight" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swayanshu2004-hub&theme=tokyonight" width="48%" />
 </p>
+---
 
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swayanshu2004-hub&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
 ---
 
 
