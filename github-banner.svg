@@ -1,0 +1,63 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A1628"/>
+      <stop offset="55%" stop-color="#0D1F35"/>
+      <stop offset="100%" stop-color="#0F2439"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#F89820" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#F89820" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#152C46"/>
+      <stop offset="100%" stop-color="#122740"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#5EEAD4" opacity="0.10"/>
+    </pattern>
+    <clipPath id="termClip">
+      <rect x="150" y="88" width="1200" height="326" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1500" height="500" fill="url(#bgGrad)"/>
+  <rect width="1500" height="500" fill="url(#dots)"/>
+  <rect width="1500" height="500" fill="url(#glow)"/>
+
+  <!-- Decorative oversized braces, faint -->
+  <text x="1310" y="360" font-family="Consolas, 'Fira Code', monospace" font-size="260" font-weight="700" fill="#F89820" opacity="0.06">{ }</text>
+  <text x="20" y="470" font-family="Consolas, 'Fira Code', monospace" font-size="150" font-weight="700" fill="#5EEAD4" opacity="0.05">01</text>
+
+  <!-- Terminal window -->
+  <g>
+    <rect x="150" y="88" width="1200" height="326" rx="14" fill="#0F2439" stroke="#1E3A56" stroke-width="1.5"/>
+    <!-- Title bar -->
+    <path d="M150 102 a14 14 0 0 1 14 -14 h1172 a14 14 0 0 1 14 14 v34 h-1200 z" fill="url(#barGrad)"/>
+    <circle cx="182" cy="119" r="6.5" fill="#FF5F56"/>
+    <circle cx="204" cy="119" r="6.5" fill="#FFBD2E"/>
+    <circle cx="226" cy="119" r="6.5" fill="#27C93F"/>
+    <text x="750" y="124" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-size="14" fill="#5C7A99">swayanshu.java — profile</text>
+
+    <g clip-path="url(#termClip)">
+      <!-- line numbers -->
+      <text x="182" y="205" font-family="Consolas, 'Fira Code', monospace" font-size="18" fill="#3C5A78">1</text>
+      <text x="182" y="255" font-family="Consolas, 'Fira Code', monospace" font-size="18" fill="#3C5A78">2</text>
+      <text x="182" y="305" font-family="Consolas, 'Fira Code', monospace" font-size="18" fill="#3C5A78">3</text>
+      <text x="182" y="355" font-family="Consolas, 'Fira Code', monospace" font-size="18" fill="#3C5A78">4</text>
+
+      <!-- content -->
+      <text x="222" y="205" font-family="Consolas, 'Fira Code', monospace" font-size="20" fill="#5EEAD4">$ whoami</text>
+
+      <text x="222" y="257" font-family="Consolas, 'Fira Code', monospace" font-size="34" font-weight="700" fill="#EDF3F9">Swayanshu Satyapragyan Sahoo</text>
+
+      <text x="222" y="308" font-family="Consolas, 'Fira Code', monospace" font-size="22" fill="#F89820">Java Developer <tspan fill="#3C5A78">|</tspan> MCA Student <tspan fill="#3C5A78">|</tspan> Problem Solver</text>
+
+      <text x="222" y="358" font-family="Consolas, 'Fira Code', monospace" font-size="20" fill="#8FD3C4">Learning • Building • Growing</text>
+      <rect x="612" y="343" width="12" height="22" fill="#5EEAD4">
+        <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
