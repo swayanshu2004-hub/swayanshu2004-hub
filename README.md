@@ -6,7 +6,7 @@
 
 # Hi 👋, I'm Swayanshu Satyapragyan Sahoo
 
-### 🚀 Java Developer | MCA Student | Problem Solver
+### 🚀 MCA Student | Java & Python Developer | Spring Boot Learner | Open to Internship
 
 
   <p align="center">
@@ -18,17 +18,17 @@
 
 ## 👨‍💻 About Me
 
-🎓 MCA  
+🎓 MCA Student
 
-💻 Passionate about Java Development , Python
+💻 Passionate about Java Backend Development and Python
 
-🌱 Currently Learning Spring Boot, ai/ml
+🌱 Currently learning Spring Boot, REST APIs and AI/ML
 
 📍 Odisha, India
 
-🎯 Looking for Java  and python Internship
+🚀 Building Java, SQL and Python Projects
 
----
+🎯 Seeking Java/Python Internship Opportunities
 
 ## 🌐 Connect With Me
 
@@ -52,22 +52,65 @@
 
 # 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,spring,cpp,c,html,css,js,mysql,git,github,vscode"/>
+### 👨‍💻 Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c"/>
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+### 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring"/>
 </p>
 
 ---
 
-# 📂 Projects
+## 📂 Featured Projects
 
-⭐ Student Management System
+### 🎓 Student Management System
+Java | OOP | File Handling
 
-⭐ Employee Management System
+A desktop application to manage student records with CRUD operations.
 
-⭐ Hospital Database (SQL)
+---
 
-⭐ Library Management System
+### 🏥 Hospital Database
+MySQL
+
+Designed relational database with joins, views and aggregate queries.
+
+---
+
+### 📚 Library Management System
+Java
+
+Book issuing, returning and member management.
+
+---
+
+### 👨‍💼 Employee Management System
+Java
+
+Console-based employee management using OOP concepts.
 
 ---
 
