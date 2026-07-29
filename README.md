@@ -18,15 +18,15 @@
 
 ## 👨‍💻 About Me
 
-🎓 MCA 2nd Year Student
+🎓 MCA  
 
-💻 Passionate about Java Development
+💻 Passionate about Java Development , Python
 
-🌱 Currently Learning Spring Boot, ai/ml& SQL
+🌱 Currently Learning Spring Boot, ai/ml
 
 📍 Odisha, India
 
-🎯 Looking for Java Developer Internship
+🎯 Looking for Java  and python Internship
 
 ---
 
