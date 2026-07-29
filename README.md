@@ -98,7 +98,7 @@
 
 ### 📝 Student Registration System
 
-🛠 **Tech Stack:** HTML, CSS, JavaScript
+🛠 **Tech Stack:** HTML
 
 📌 A responsive student registration system with a clean UI for managing student information.
 
