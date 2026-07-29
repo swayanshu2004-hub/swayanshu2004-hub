@@ -8,7 +8,6 @@
 
 ### 🚀 MCA Student | Java & Python Developer | Spring Boot Learner | Open to Internship
 
-
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;Problem+Solver;Open+to+Internship;Building+Awesome+Projects" alt="Typing SVG" />
 </p>
@@ -30,7 +29,7 @@
 
 🎯 Seeking Java/Python Internship Opportunities
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 
@@ -54,7 +53,7 @@
 
 ### 👨‍💻 Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c"/>
 </p>
 
@@ -113,12 +112,13 @@ Java
 Console-based employee management using OOP concepts.
 
 ---
+## 🚀 Current Focus
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=swayanshu2004-hub&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</p>
+- 🌱 Learning **Spring Boot** and **REST APIs**
+- 💻 Building **Java** and **Python** projects
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🗄️ Strengthening **SQL & Database Design**
+- 🎯 Looking for **Java/Python Internship Opportunities**
 ---
 
 
