@@ -53,8 +53,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,spring,cpp,c,html,css,js,mysql,git,github,vscode"/>
 
 </p>
 
@@ -83,7 +82,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swayanshu2004-hub&theme=tokyonight" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swayanshu2004-hub&theme=tokyonight" width="48%" />
 </p>
----
 
 ---
 
@@ -107,17 +105,5 @@
 ⭐ Thanks for visiting my profile!
 
 </div>
-## 📊 GitHub Stats
----
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swayanshu2004-hub&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swayanshu2004-hub&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayanshu2004-hub&layout=compact&theme=tokyonight"/>
-</p>
