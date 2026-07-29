@@ -82,36 +82,50 @@
 </p>
 
 ---
+## 🌟 Featured Projects
 
-## 📂 Featured Projects
+### 🌐 Portfolio Website
 
-### 🎓 Student Management System
-Java | OOP | File Handling
+🛠 **Tech Stack:** HTML, CSS, JavaScript
 
-A desktop application to manage student records with CRUD operations.
+📌 A responsive personal portfolio showcasing my skills, projects, and contact information.
 
----
+🔗 **Repository:** https://github.com/swayanshu2004-hub/portfolio
 
-### 🏥 Hospital Database
-MySQL
-
-Designed relational database with joins, views and aggregate queries.
+🌍 **Live Demo:** https://swayanshu2004-hub.github.io/portfolio/
 
 ---
 
-### 📚 Library Management System
-Java
+### 📝 Student Registration System
 
-Book issuing, returning and member management.
+🛠 **Tech Stack:** HTML, CSS, JavaScript
+
+📌 A responsive student registration system with a clean UI for managing student information.
+
+🔗 **Repository:** https://github.com/swayanshu2004-hub/student-registration-system-html
+
+🌍 **Live Demo:** https://swayanshu2004-hub.github.io/student-registration-system-html/
+
+---
+
+### 🍔 Food Delivery Database
+
+🛠 **Tech Stack:** SQL, MySQL
+
+📌 Designed and implemented a relational database for a food delivery system using tables, joins, aggregate functions, and SQL queries.
+
+🔗 **Repository:** https://github.com/swayanshu2004-hub/food-delivery-database-sql
 
 ---
 
-### 👨‍💼 Employee Management System
-Java
+### 🏦 Banking Management System
 
-Console-based employee management using OOP concepts.
+🛠 **Tech Stack:** Java, OOP
 
----
+📌 A console-based banking application supporting account creation, deposits, withdrawals, balance inquiries, and transaction management using Object-Oriented Programming.
+
+🔗 **Repository:** https://github.com/swayanshu2004-hub/Banking-Management-System
+
 ## 🚀 Current Focus
 
 - 🌱 Learning **Spring Boot** and **REST APIs**
