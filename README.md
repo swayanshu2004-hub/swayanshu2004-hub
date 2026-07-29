@@ -114,18 +114,11 @@ Console-based employee management using OOP concepts.
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayanshu2004-hub&theme=tokyonight" width="100%" />
-</p>
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swayanshu2004-hub&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swayanshu2004-hub&theme=tokyonight" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=swayanshu2004-hub&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 </p>
-
 ---
 
 
